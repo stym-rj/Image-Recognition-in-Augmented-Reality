@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSE 310 Java Project</string>
+    <string name="permission_needed">Permission Needed!</string>
+</resources>
